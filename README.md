@@ -1,0 +1,6 @@
+# This code (uca_scraper) pulls data from Alberta's Utilities Consumer Advocate database, for cost comparison between providers - to compare retailer values more efficiently. It outputs a dated (uca_rates_YYYY-MM-DD) file. 
+# The (cost_comparison) code then calculates the average cost of each provider based on my historical usage values (which are editable). Currently, this code outputs an (utility_cost_comparison) table as a dollar and cents review.
+# The dated files maintain history from the UCA website, from previous scrapes, while the un-dated file is used to run the (cost-comparison). If running the scraper, remember to copy the dated file and remove the date from its name to run the cost code.
+# It likely goes without saying that, although this calculates cost of usage based on consumption, it does nothing to demonstrate the distribution and transmission charges paid on top of this cost. 
+# For example, my last bill with my current provider was about double my usage cost in D&T for electricity, and about four-times my usage cost in D&T for gas. (Elec, $35.00 + D&T, $75.00 = $110.00 Total // Gas, $10.00 + D&T, $40.00 = $50.00 Total) --- Before tax.
+# Thanks for checking it out!
