@@ -1,0 +1,66 @@
+import pandas as pd
+
+# Load CSV
+df = pd.read_csv('uca_rates.csv')
+
+# Your monthly usage data (electricity kWh and gas GJ)
+electricity_kwh = [
+    395, 500, 398, 384, 418, 429, 471, 380, 393, 364, 352, 420,
+    831, 433, 370, 454, 446, 656, 414, 390, 340, 370, 336
+]
+
+gas_gj = [
+    1.02, 2.03, 1.01, 4.08, 9.09, 7.08, 13.17, 8.1, 8.12, 5.07, 3.04, 1.02,
+    2.02, 1.01, 1.01, 4.05, 8.1, 10.12, 11.16, 7.1, 7.1, 5.05, 2.03, 2.04
+]
+
+months = len(electricity_kwh)
+
+# Pad usage lists if needed
+if len(electricity_kwh) < len(gas_gj):
+    electricity_kwh += [430] * (len(gas_gj) - len(electricity_kwh))
+elif len(gas_gj) < len(electricity_kwh):
+    gas_gj += [4.69] * (len(electricity_kwh) - len(gas_gj))
+
+def calc_cost(row):
+    if pd.isnull(row['UtilityType']) or not isinstance(row['UtilityType'], str):
+        return pd.Series({
+            'Provider': row.get('Provider', 'N/A'),
+            'PlanID': row.get('PlanID', 'N/A'),
+            'PlanType': row.get('PlanType', 'N/A'),
+            'UtilityType': row.get('UtilityType', 'N/A'),
+            'Contract': row.get('Contract', 'N/A'),
+            'AvgMonthlyCost': float('nan'),
+        })
+
+    utility = row['UtilityType'].lower()
+    elec_rate = row.get('ElectricPrice_cents', 0) / 100
+    gas_rate = row.get('GasPrice_cents', 0) / 100
+    admin = row.get('AdminFee', 0)
+    other = row.get('OtherFees', 0)
+
+    monthly_costs = []
+    for i in range(months):
+        elec_cost = electricity_kwh[i] * elec_rate if utility in ['electricity', 'bundled'] else 0
+        gas_cost = gas_gj[i] * gas_rate if utility in ['naturalgas', 'bundled'] else 0
+        total = elec_cost + gas_cost + admin + other
+        monthly_costs.append(total)
+
+    avg_cost = sum(monthly_costs) / months
+
+    return pd.Series({
+        'Provider': row['Provider'],
+        'PlanID': row['PlanID'],
+        'PlanType': row['PlanType'],
+        'UtilityType': row['UtilityType'],
+        'Contract': row.get('Contract', 'N/A'),
+        'AvgMonthlyCost': round(avg_cost, 2),
+    })
+
+results = df.apply(calc_cost, axis=1)
+
+sorted_results = results.sort_values(by='AvgMonthlyCost')
+
+print(sorted_results.head(10))
+
+sorted_results.to_csv('utility_cost_comparison.csv', index=False)
