@@ -1,0 +1,809 @@
+Provider,PlanID,PlanType,UtilityType,Contract,AvgMonthlyCost
+abode power,16704,variable-rate all,NaturalGas,1-year all,0.0
+greenamp utilities,21642,variable-rate all,NaturalGas,no-term all,0.0
+alberta utility source,10880,variable-rate all,NaturalGas,no-term all,0.0
+alberta utility source,10879,variable-rate all,NaturalGas,no-term all,0.0
+easymax by enmax energy corporation,23793,combined-rate all,Bundled,1-year all,0.24
+shared value energy,19336,variable-rate all,NaturalGas,no-term all,6.35
+shared value energy,19351,variable-rate all,NaturalGas,no-term all,6.35
+shared value energy,22355,fixed-rate all,NaturalGas,1-year all,6.46
+shared value energy,22356,fixed-rate all,NaturalGas,1-year all,6.47
+empwr,6913,variable-rate all,NaturalGas,no-term all,6.85
+empwr,6914,variable-rate all,NaturalGas,no-term all,6.85
+ascend energy,14225,variable-rate all,NaturalGas,no-term all,6.94
+ascend energy,14224,variable-rate all,NaturalGas,no-term all,6.94
+orizon utilities,20734,variable-rate all,NaturalGas,no-term all,6.95
+azgard energy,16057,variable-rate all,NaturalGas,no-term all,6.95
+azgard energy,16056,variable-rate all,NaturalGas,no-term all,6.95
+orizon utilities,20735,variable-rate all,NaturalGas,no-term all,6.95
+empwr,22093,fixed-rate all,NaturalGas,1-year all,6.96
+empwr,22094,fixed-rate all,NaturalGas,1-year all,6.97
+peyakoskan energy,22756,variable-rate all,NaturalGas,no-term all,7.0
+peyakoskan energy,22755,variable-rate all,NaturalGas,no-term all,7.0
+xoom energy canada,24652,fixed-rate all,NaturalGas,1-year all,7.02
+xoom energy canada,24650,fixed-rate all,NaturalGas,2-year-contract all,7.05
+ascend energy,22003,fixed-rate all,NaturalGas,1-year all,7.05
+orizon utilities,23437,fixed-rate all,NaturalGas,2-year-contract all,7.06
+ascend energy,22004,fixed-rate all,NaturalGas,1-year all,7.06
+orizon utilities,23436,fixed-rate all,NaturalGas,2-year-contract all,7.07
+xoom energy canada,24648,fixed-rate all,NaturalGas,3-year-contract all,7.07
+peyakoskan energy,22757,fixed-rate all,NaturalGas,1-year all,7.11
+peyakoskan energy,23530,fixed-rate all,NaturalGas,1-year all,7.13
+foothills energy co-op,9234,variable-rate all,NaturalGas,no-term all,7.45
+foothills energy co-op,9233,variable-rate all,NaturalGas,no-term all,7.45
+adagio energy,21959,fixed-rate all,NaturalGas,2-year-contract all,7.46
+adagio energy,21960,fixed-rate all,NaturalGas,2-year-contract all,7.47
+foothills energy co-op,24117,fixed-rate all,NaturalGas,1-year all,7.56
+foothills energy co-op,24116,fixed-rate all,NaturalGas,1-year all,7.57
+mountain view power,5560,variable-rate all,NaturalGas,no-term all,7.59
+mountain view power,5561,variable-rate all,NaturalGas,no-term all,7.59
+solarmax power,5568,variable-rate all,NaturalGas,no-term all,7.6
+park power,5563,variable-rate all,NaturalGas,no-term all,7.6
+park power,5564,variable-rate all,NaturalGas,no-term all,7.6
+solarmax power,10114,variable-rate all,NaturalGas,no-term all,7.6
+mountain view power,22221,fixed-rate all,NaturalGas,1-year all,7.7
+solarmax power,23410,fixed-rate all,NaturalGas,1-year all,7.71
+mountain view power,22222,fixed-rate all,NaturalGas,1-year all,7.71
+park power,22281,fixed-rate all,NaturalGas,2-year-contract all,7.71
+solarmax power,23411,fixed-rate all,NaturalGas,2-year-contract all,7.72
+park power,22282,fixed-rate all,NaturalGas,2-year-contract all,7.72
+camrose energy,5552,variable-rate all,NaturalGas,no-term all,7.85
+camrose energy,5551,variable-rate all,NaturalGas,no-term all,7.85
+big rock power,5562,variable-rate all,NaturalGas,no-term all,7.9
+big rock power,9061,variable-rate all,NaturalGas,no-term all,7.9
+camrose energy,22066,fixed-rate all,NaturalGas,2-year-contract all,7.96
+camrose energy,22067,fixed-rate all,NaturalGas,2-year-contract all,7.97
+big rock power,22250,fixed-rate all,NaturalGas,1-year all,8.01
+big rock power,22251,fixed-rate all,NaturalGas,1-year all,8.02
+burst energy,16720,variable-rate all,NaturalGas,5-years-or-more all,8.04
+headwaters utility,16059,variable-rate all,NaturalGas,no-term all,8.05
+headwaters utility,16058,variable-rate all,NaturalGas,no-term all,8.05
+echo energy,5554,variable-rate all,NaturalGas,no-term all,8.05
+ridge utilities,10799,variable-rate all,NaturalGas,no-term all,8.09
+ridge utilities,23512,variable-rate all,NaturalGas,no-term all,8.09
+firefly utilities ,22646,variable-rate all,NaturalGas,1-year all,8.1
+firefly utilities ,22647,variable-rate all,NaturalGas,1-year all,8.1
+jade energy,19443,variable-rate all,NaturalGas,no-term all,8.1
+spot power,5569,variable-rate all,NaturalGas,no-term all,8.1
+neon power,21661,variable-rate all,NaturalGas,no-term all,8.1
+brighter futures energy inc.,6680,variable-rate all,NaturalGas,no-term all,8.1
+sandstone energy,5566,variable-rate all,NaturalGas,no-term all,8.1
+sandstone energy,23578,variable-rate all,NaturalGas,no-term all,8.1
+fluent utilities,11560,variable-rate all,NaturalGas,no-term all,8.1
+fluent utilities,9075,variable-rate all,NaturalGas,no-term all,8.1
+utilitynet,5571,variable-rate all,NaturalGas,no-term all,8.1
+utilitynet,5572,variable-rate all,NaturalGas,no-term all,8.1
+wetaskiwin power,12524,variable-rate all,NaturalGas,no-term all,8.1
+great canadian utilities,23671,variable-rate all,NaturalGas,no-term all,8.1
+acorn energy,5609,variable-rate all,NaturalGas,no-term all,8.1
+acorn energy,5610,variable-rate all,NaturalGas,no-term all,8.1
+brighter futures energy inc.,5550,variable-rate all,NaturalGas,no-term all,8.1
+great canadian utilities,23672,variable-rate all,NaturalGas,no-term all,8.1
+airdrie energy,12222,variable-rate all,NaturalGas,no-term all,8.1
+wetaskiwin power,12523,variable-rate all,NaturalGas,no-term all,8.1
+airdrie energy,12221,variable-rate all,NaturalGas,no-term all,8.1
+spot power,5570,variable-rate all,NaturalGas,no-term all,8.1
+jade energy,19442,variable-rate all,NaturalGas,no-term all,8.1
+alberta cooperative energy (ace),20567,fixed-rate all,NaturalGas,1-year all,8.11
+alberta cooperative energy (ace),20566,fixed-rate all,NaturalGas,3-year-contract all,8.12
+alberta cooperative energy (ace),20634,fixed-rate all,NaturalGas,1-year all,8.13
+alberta cooperative energy (ace),20565,fixed-rate all,NaturalGas,3-year-contract all,8.14
+headwaters utility,23255,fixed-rate all,NaturalGas,1-year all,8.16
+echo energy,22076,fixed-rate all,NaturalGas,2-year-contract all,8.17
+headwaters utility,23256,fixed-rate all,NaturalGas,1-year all,8.17
+alberta cooperative energy (ace),24154,variable-rate all,NaturalGas,no-term all,8.19
+jade energy,24342,fixed-rate all,NaturalGas,2-year-contract all,8.2
+ridge utilities,23513,fixed-rate all,NaturalGas,1-year all,8.2
+q-tilities ,24647,fixed-rate all,NaturalGas,1-year all,8.2
+utilitynet,22452,fixed-rate all,NaturalGas,2-year-contract all,8.21
+sandstone energy,22338,fixed-rate all,NaturalGas,1-year all,8.21
+wetaskiwin power,22486,fixed-rate all,NaturalGas,2-year-contract all,8.21
+ridge utilities,22299,fixed-rate all,NaturalGas,1-year all,8.21
+acorn energy,21943,fixed-rate all,NaturalGas,2-year-contract all,8.21
+firefly utilities ,22648,fixed-rate all,NaturalGas,1-year all,8.21
+brighter futures energy inc.,22051,fixed-rate all,NaturalGas,1-year all,8.21
+fluent utilities,22110,fixed-rate all,NaturalGas,1-year all,8.21
+airdrie energy,21975,fixed-rate all,NaturalGas,1-year all,8.21
+q-tilities ,24646,fixed-rate all,NaturalGas,1-year all,8.21
+neon power,24341,fixed-rate all,NaturalGas,1-year all,8.21
+spot power,22389,fixed-rate all,NaturalGas,1-year all,8.21
+jade energy,24343,fixed-rate all,NaturalGas,1-year all,8.21
+great canadian utilities,23673,fixed-rate all,NaturalGas,no-term all,8.21
+azgard energy,22017,fixed-rate all,NaturalGas,1-year all,8.21
+sandstone energy,22339,fixed-rate all,NaturalGas,1-year all,8.22
+firefly utilities ,22649,fixed-rate all,NaturalGas,1-year all,8.22
+utilitynet,22453,fixed-rate all,NaturalGas,2-year-contract all,8.22
+fluent utilities,22111,fixed-rate all,NaturalGas,2-year-contract all,8.22
+spot power,22390,fixed-rate all,NaturalGas,1-year all,8.22
+acorn energy,21944,fixed-rate all,NaturalGas,2-year-contract all,8.22
+great canadian utilities,23674,fixed-rate all,NaturalGas,no-term all,8.22
+brighter futures energy inc.,22052,fixed-rate all,NaturalGas,1-year all,8.22
+wetaskiwin power,22487,fixed-rate all,NaturalGas,2-year-contract all,8.22
+airdrie energy,21976,fixed-rate all,NaturalGas,1-year all,8.22
+azgard energy,22018,fixed-rate all,NaturalGas,1-year all,8.24
+tassa energy,11233,variable-rate all,NaturalGas,no-term all,8.35
+tassa energy,11234,variable-rate all,NaturalGas,no-term all,8.35
+bow valley power,5549,variable-rate all,NaturalGas,no-term all,8.35
+bow valley power,5548,variable-rate all,NaturalGas,no-term all,8.35
+vector energy,5574,variable-rate all,NaturalGas,no-term all,8.44
+vector energy,5573,variable-rate all,NaturalGas,no-term all,8.44
+rocky mountain community energy,12829,variable-rate all,NaturalGas,no-term all,8.45
+bow valley power,22034,fixed-rate all,NaturalGas,1-year all,8.46
+tassa energy,22420,fixed-rate all,NaturalGas,2-year-contract all,8.46
+tassa energy,22421,fixed-rate all,NaturalGas,2-year-contract all,8.47
+bow valley power,22035,fixed-rate all,NaturalGas,1-year all,8.47
+vector energy,22470,fixed-rate all,NaturalGas,2-year-contract all,8.55
+rocky mountain community energy,24263,fixed-rate all,NaturalGas,1-year all,8.55
+rocky mountain community energy,24264,fixed-rate all,NaturalGas,2-year-contract all,8.56
+rocky mountain community energy,22322,fixed-rate all,NaturalGas,2-year-contract all,8.56
+vector energy,22471,fixed-rate all,NaturalGas,2-year-contract all,8.56
+alberta utility source,21991,fixed-rate all,NaturalGas,1-year all,8.71
+alberta utility source,21992,fixed-rate all,NaturalGas,1-year all,8.72
+get energy,5559,variable-rate all,NaturalGas,no-term all,9.07
+get energy,5558,variable-rate all,NaturalGas,no-term all,9.07
+abode power,11976,variable-rate all,NaturalGas,1-year all,9.09
+greenamp utilities,21643,variable-rate all,NaturalGas,no-term all,9.1
+get energy,22143,fixed-rate all,NaturalGas,2-year-contract all,9.17
+get energy,22144,fixed-rate all,NaturalGas,2-year-contract all,9.18
+abode power,21908,fixed-rate all,NaturalGas,1-year all,9.19
+prairie power,23847,fixed-rate all,NaturalGas,1-year all,9.19
+powerbill,23849,fixed-rate all,NaturalGas,1-year all,9.19
+gateway energy,24435,fixed-rate all,NaturalGas,1-year all,9.2
+abode power,21909,fixed-rate all,NaturalGas,1-year all,9.2
+greenamp utilities,22160,fixed-rate all,NaturalGas,1-year all,9.21
+gateway energy,24436,fixed-rate all,NaturalGas,1-year all,9.21
+prairie power,24069,fixed-rate all,NaturalGas,3-year-contract all,9.21
+powerbill,23848,fixed-rate all,NaturalGas,3-year-contract all,9.21
+greenamp utilities,22161,fixed-rate all,NaturalGas,1-year all,9.22
+astro energy,19324,fixed-rate all,NaturalGas,5-years-or-more all,9.3
+burst energy,16867,fixed-rate all,NaturalGas,1-year all,9.56
+encor by epcor,24351,fixed-rate all,NaturalGas,2-year-contract all,9.83
+regional energy,10917,variable-rate all,NaturalGas,no-term all,9.99
+sponsor energy,21674,variable-rate all,NaturalGas,no-term all,10.03
+sponsor energy,21673,variable-rate all,NaturalGas,no-term all,10.03
+sponsor energy,706,variable-rate all,NaturalGas,no-term all,10.03
+atco energy,24461,variable-rate all,NaturalGas,2-year-contract all,10.03
+sponsor energy,21704,variable-rate all,NaturalGas,no-term all,10.03
+atco energy,24462,variable-rate all,NaturalGas,3-year-contract all,10.03
+atco energy,24463,variable-rate all,NaturalGas,5-years-or-more all,10.03
+atco energy,24460,variable-rate all,NaturalGas,1-year all,10.03
+sponsor energy,21672,variable-rate all,NaturalGas,no-term all,10.03
+easymax by enmax energy corporation,22654,variable-rate all,NaturalGas,no-term all,10.04
+sundance power,20991,variable-rate all,NaturalGas,no-term all,10.05
+sundance power,20992,variable-rate all,NaturalGas,no-term all,10.05
+utilities by kuby,21471,variable-rate all,NaturalGas,no-term all,10.1
+utilities by kuby,21472,variable-rate all,NaturalGas,no-term all,10.1
+sturgeon river utilities,23838,fixed-rate all,NaturalGas,1-year all,10.13
+sturgeon river utilities,23839,fixed-rate all,NaturalGas,3-year-contract all,10.13
+sturgeon river utilities,23840,fixed-rate all,NaturalGas,5-years-or-more all,10.14
+sundance power,23494,fixed-rate all,NaturalGas,1-year all,10.16
+68energy,17223,fixed-rate all,NaturalGas,1-year all,10.17
+sundance power,23493,fixed-rate all,NaturalGas,1-year all,10.17
+68energy,19329,fixed-rate all,NaturalGas,3-year-contract all,10.19
+utilities by kuby,24173,fixed-rate all,NaturalGas,1-year all,10.2
+atco energy,16818,fixed-rate all,NaturalGas,1-year all,10.22
+atco energy,16820,fixed-rate all,NaturalGas,3-year-contract all,10.23
+atco energy,16819,fixed-rate all,NaturalGas,2-year-contract all,10.23
+atco energy,16821,fixed-rate all,NaturalGas,5-years-or-more all,10.24
+easymax by enmax energy corporation,23789,fixed-rate all,NaturalGas,1-year all,10.24
+easymax by enmax energy corporation,22659,fixed-rate all,NaturalGas,3-year-contract all,10.24
+easymax by enmax energy corporation,22658,fixed-rate all,NaturalGas,5-years-or-more all,10.26
+bright fire energy,21468,fixed-rate all,NaturalGas,1-year all,10.28
+bright fire energy,21467,fixed-rate all,NaturalGas,5-years-or-more all,10.33
+direct energy regulated services,24626,regulated-rate all,NaturalGas,no-term all,10.82
+direct energy,14192,variable-rate all,NaturalGas,5-years-or-more all,12.54
+direct energy,14179,variable-rate all,NaturalGas,1-year all,12.54
+direct energy,14185,variable-rate all,NaturalGas,3-year-contract all,12.54
+8760,20908,variable-rate all,NaturalGas,5-years-or-more all,12.68
+sponsor energy,19997,fixed-rate all,NaturalGas,1-year all,12.7
+8760,20907,fixed-rate all,NaturalGas,1-year all,12.71
+8760,22889,fixed-rate all,NaturalGas,3-year-contract all,12.72
+sponsor energy,22617,fixed-rate all,NaturalGas,3-year-contract all,12.73
+8760,20906,fixed-rate all,NaturalGas,5-years-or-more all,12.73
+direct energy,24613,fixed-rate all,NaturalGas,1-year all,12.74
+direct energy,24610,fixed-rate all,NaturalGas,1-year all,12.74
+direct energy,24607,fixed-rate all,NaturalGas,1-year all,12.74
+sponsor energy,20371,fixed-rate all,NaturalGas,5-years-or-more all,12.74
+direct energy,24616,fixed-rate all,NaturalGas,5-years-or-more all,12.76
+wholesale power,9245,variable-rate all,NaturalGas,no-term all,14.0
+wholesale power,22496,fixed-rate all,NaturalGas,2-year-contract all,14.1
+guardian utilities,16724,variable-rate all,NaturalGas,no-term all,14.5
+guardian utilities,23243,fixed-rate all,NaturalGas,1-year all,14.6
+strathcona power,24545,fixed-rate all,NaturalGas,1-year all,14.91
+strathcona power,24546,fixed-rate all,NaturalGas,3-year-contract all,14.94
+strathcona power,24547,fixed-rate all,NaturalGas,5-years-or-more all,14.94
+rewards power,24408,fixed-rate all,NaturalGas,1-year all,15.21
+rewards power,24410,fixed-rate all,NaturalGas,5-years-or-more all,15.23
+rewards power,24409,fixed-rate all,NaturalGas,3-year-contract all,15.23
+altaconnect,12848,variable-rate all,NaturalGas,no-term all,15.54
+big energy,21702,fixed-rate all,NaturalGas,1-year all,15.9
+wholesale power,23817,variable-rate all,NaturalGas,no-term all,17.0
+big energy,10905,variable-rate all,NaturalGas,no-term all,17.02
+wholesale power,23821,fixed-rate all,NaturalGas,2-year-contract all,17.1
+guardian utilities,23801,variable-rate all,NaturalGas,no-term all,17.5
+guardian utilities,23803,fixed-rate all,NaturalGas,1-year all,17.6
+choice energy,23786,fixed-rate all,NaturalGas,1-year all,17.91
+choice energy,19322,fixed-rate all,NaturalGas,5-years-or-more all,17.93
+choice energy,23785,fixed-rate all,NaturalGas,3-year-contract all,17.93
+link energy,20134,fixed-rate all,NaturalGas,1-year all,18.92
+link energy,20133,fixed-rate all,NaturalGas,5-years-or-more all,18.94
+link energy,23784,fixed-rate all,NaturalGas,3-year-contract all,18.94
+link energy,16866,variable-rate all,NaturalGas,no-term all,19.02
+olympus energy,23846,fixed-rate all,NaturalGas,1-year all,19.7
+wholesale power,23818,variable-rate all,NaturalGas,no-term all,20.0
+wholesale power,23822,fixed-rate all,NaturalGas,2-year-contract all,20.1
+guardian utilities,23802,variable-rate all,NaturalGas,no-term all,20.5
+guardian utilities,23804,fixed-rate all,NaturalGas,1-year all,20.6
+burst energy,16719,variable-rate all,Electricity,5-years-or-more all,21.66
+peace power,16624,fixed-rate all,NaturalGas,1-year all,21.8
+abode power,19493,variable-rate all,Electricity,no-term all,22.99
+alberta cooperative energy (ace),24155,variable-rate all,Electricity,no-term all,23.62
+sponsor energy,20547,variable-rate all,Electricity,no-term all,23.65
+bright fire energy,10906,variable-rate all,Electricity,no-term all,23.65
+sponsor energy,21666,variable-rate all,Electricity,no-term all,23.65
+sponsor energy,21668,variable-rate all,Electricity,no-term all,23.65
+sponsor energy,21669,variable-rate all,Electricity,no-term all,23.65
+sponsor energy,21670,variable-rate all,Electricity,no-term all,23.65
+energy for less,19968,fixed-rate all,NaturalGas,1-year all,24.61
+energy for less,19967,fixed-rate all,NaturalGas,5-years-or-more all,24.63
+empwr,6912,variable-rate all,Electricity,no-term all,24.69
+orizon utilities,20733,variable-rate all,Electricity,no-term all,24.84
+energy for less,10913,variable-rate all,NaturalGas,no-term all,24.87
+rocky mountain community energy,12828,variable-rate all,Electricity,no-term all,24.88
+activate energy,22919,fixed-rate all,NaturalGas,1-year all,24.91
+shared value energy,19335,variable-rate all,Electricity,no-term all,25.24
+adagio energy,532,variable-rate all,Electricity,no-term all,25.24
+easymax by enmax energy corporation,22688,variable-rate all,Electricity,no-term all,25.31
+peyakoskan energy,22738,variable-rate all,Electricity,no-term all,25.34
+foothills energy co-op,5327,variable-rate all,Electricity,no-term all,25.38
+solarmax power,644,variable-rate all,Electricity,no-term all,25.44
+mountain view power,339,variable-rate all,Electricity,no-term all,25.56
+camrose energy,724,variable-rate all,Electricity,no-term all,25.78
+big rock power,625,variable-rate all,Electricity,no-term all,25.79
+great canadian utilities,23655,variable-rate all,Electricity,no-term all,25.86
+neon power,21659,variable-rate all,Electricity,no-term all,25.9
+jade energy,19441,variable-rate all,Electricity,no-term all,25.94
+spot power,307,variable-rate all,Electricity,no-term all,25.94
+vector energy,503,variable-rate all,Electricity,no-term all,25.94
+brighter futures energy inc.,5235,variable-rate all,Electricity,no-term all,25.94
+headwaters utility,16060,variable-rate all,Electricity,no-term all,25.94
+echo energy,762,variable-rate all,Electricity,no-term all,25.98
+ridge utilities,10797,variable-rate all,Electricity,no-term all,25.98
+acorn energy,444,variable-rate all,Electricity,no-term all,25.99
+utilitynet,597,variable-rate all,Electricity,no-term all,25.99
+airdrie energy,12220,variable-rate all,Electricity,no-term all,26.03
+fluent utilities,789,variable-rate all,Electricity,no-term all,26.03
+wetaskiwin power,12522,variable-rate all,Electricity,no-term all,26.07
+sandstone energy,743,variable-rate all,Electricity,no-term all,26.12
+direct energy,14178,variable-rate all,Electricity,1-year all,26.16
+direct energy,14184,variable-rate all,Electricity,3-year-contract all,26.16
+direct energy,14191,variable-rate all,Electricity,5-years-or-more all,26.16
+bow valley power,326,variable-rate all,Electricity,no-term all,26.24
+tassa energy,11232,variable-rate all,Electricity,no-term all,26.24
+firefly utilities ,22629,variable-rate all,Electricity,no-term all,26.35
+park power,675,variable-rate all,Electricity,no-term all,26.53
+alberta utility source,10878,variable-rate all,Electricity,no-term all,26.53
+get energy,421,variable-rate all,Electricity,no-term all,26.91
+greenamp utilities,21641,variable-rate all,Electricity,no-term all,27.03
+azgard energy,16042,variable-rate all,Electricity,no-term all,27.85
+sundance power,20990,variable-rate all,Electricity,no-term all,27.85
+ascend energy,14223,variable-rate all,Electricity,no-term all,27.89
+utilities by kuby,21470,variable-rate all,Electricity,no-term all,27.94
+regional energy,22893,fixed-rate all,NaturalGas,3-year-contract all,28.85
+regional energy,19316,fixed-rate all,NaturalGas,5-years-or-more all,28.86
+big energy,19328,fixed-rate all,NaturalGas,5-years-or-more all,28.9
+altaconnect,12847,variable-rate all,Electricity,no-term all,29.16
+altaconnect,19314,fixed-rate all,NaturalGas,1-year all,30.21
+abode power,23912,promotional-rate all,Electricity,1-year all,30.64
+big energy,10904,variable-rate all,Electricity,no-term all,30.64
+guardian utilities,23798,variable-rate all,Electricity,no-term all,31.39
+wholesale power,9246,variable-rate all,Electricity,no-term all,31.93
+link energy,16865,variable-rate all,Electricity,no-term all,32.64
+sponsor energy,21671,variable-rate all,Bundled,1-year all,33.67
+sponsor energy,22616,variable-rate all,Bundled,4-year-contract all,33.67
+sponsor energy,22615,variable-rate all,Bundled,5-years-or-more all,33.67
+sponsor energy,22614,variable-rate all,Bundled,3-year-contract all,33.67
+sponsor energy,22613,variable-rate all,Bundled,no-term all,33.67
+direct energy,14183,variable-rate all,Bundled,3-year-contract all,33.7
+direct energy,14190,variable-rate all,Bundled,5-years-or-more all,33.7
+direct energy,14177,variable-rate all,Bundled,1-year all,33.7
+atco energy,24458,variable-rate all,Electricity,3-year-contract all,34.2
+atco energy,24457,variable-rate all,Electricity,2-year-contract all,34.2
+atco energy,24459,variable-rate all,Electricity,5-years-or-more all,34.2
+atco energy,24456,variable-rate all,Electricity,1-year all,34.2
+guardian utilities,23799,variable-rate all,Electricity,no-term all,34.39
+wholesale power,23819,variable-rate all,Electricity,no-term all,34.93
+easymax by enmax energy corporation,22689,variable-rate all,Bundled,no-term all,35.34
+easymax by enmax energy corporation,22686,combined-rate all,Bundled,3-year-contract all,35.55
+easymax by enmax energy corporation,22687,combined-rate all,Bundled,5-years-or-more all,35.57
+neon power,24333,promotional-rate all,Electricity,1-year all,35.89
+utilitynet,23340,promotional-rate all,Electricity,1-year all,36.1
+abode power,23919,variable-rate all,Electricity,no-term all,36.47
+get energy,24130,promotional-rate all,Electricity,no-term all,37.07
+guardian utilities,23800,variable-rate all,Electricity,no-term all,37.39
+jade energy,23274,promotional-rate all,Electricity,no-term all,37.75
+wholesale power,23820,variable-rate all,Electricity,no-term all,37.93
+sundance power,23495,promotional-rate all,Electricity,1-year all,38.05
+empwr,24089,promotional-rate all,Electricity,no-term all,38.22
+empwr,24100,variable-rate all,Electricity,no-term all,38.22
+airdrie energy,23997,promotional-rate all,Electricity,no-term all,38.22
+brighter futures energy inc.,23937,promotional-rate all,Electricity,1-year all,38.26
+rocky mountain community energy,24268,variable-rate all,Electricity,no-term all,38.32
+rocky mountain community energy,24252,promotional-rate all,Electricity,no-term all,38.32
+orizon utilities,24305,variable-rate all,Electricity,no-term all,38.32
+orizon utilities,24295,promotional-rate all,Electricity,1-year all,38.32
+energy for less,10912,variable-rate all,Electricity,no-term all,38.49
+shared value energy,24193,promotional-rate all,Electricity,1-year all,38.72
+adagio energy,24016,variable-rate all,Electricity,no-term all,38.72
+shared value energy,24201,variable-rate all,Electricity,no-term all,38.72
+adagio energy,24007,promotional-rate all,Electricity,1-year all,38.72
+foothills energy co-op,24103,promotional-rate all,Electricity,no-term all,38.82
+peyakoskan energy,23531,promotional-rate all,Electricity,1-year all,38.82
+peyakoskan energy,23542,variable-rate all,Electricity,1-year all,38.82
+foothills energy co-op,24113,variable-rate all,Electricity,no-term all,38.82
+mountain view power,24213,promotional-rate all,Electricity,no-term all,38.96
+mountain view power,24223,variable-rate all,Electricity,no-term all,38.96
+solarmax power,24212,variable-rate all,Electricity,no-term all,38.97
+solarmax power,24204,promotional-rate all,Electricity,no-term all,38.97
+camrose energy,24076,variable-rate all,Electricity,no-term all,39.22
+camrose energy,24066,promotional-rate all,Electricity,no-term all,39.22
+big rock power,23922,promotional-rate all,Electricity,no-term all,39.27
+big rock power,23934,variable-rate all,Electricity,no-term all,39.27
+vector energy,24282,promotional-rate all,Electricity,1-year all,39.42
+echo energy,24079,promotional-rate all,Electricity,no-term all,39.42
+echo energy,24086,variable-rate all,Electricity,no-term all,39.42
+headwaters utility,23269,variable-rate all,Electricity,no-term all,39.42
+vector energy,24292,variable-rate all,Electricity,no-term all,39.42
+headwaters utility,24344,promotional-rate all,Electricity,no-term all,39.42
+q-tilities ,24628,promotional-rate all,Electricity,1-year all,39.46
+q-tilities ,24639,variable-rate all,Electricity,1-year all,39.46
+ridge utilities,24320,promotional-rate all,Electricity,1-year all,39.46
+ridge utilities,24330,variable-rate all,Electricity,no-term all,39.46
+sandstone energy,23974,promotional-rate all,Electricity,no-term all,39.47
+neon power,24337,variable-rate all,Electricity,no-term all,39.47
+jade energy,23285,variable-rate all,Electricity,no-term all,39.47
+great canadian utilities,24269,promotional-rate all,Electricity,1-year all,39.47
+great canadian utilities,24279,variable-rate all,Electricity,1-year all,39.47
+sandstone energy,23981,variable-rate all,Electricity,no-term all,39.47
+brighter futures energy inc.,23947,variable-rate all,Electricity,no-term all,39.47
+spot power,23909,variable-rate all,Electricity,no-term all,39.47
+spot power,23899,promotional-rate all,Electricity,1-year all,39.47
+fluent utilities,23984,promotional-rate all,Electricity,no-term all,39.47
+utilitynet,23961,promotional-rate all,Electricity,no-term all,39.47
+fluent utilities,23994,variable-rate all,Electricity,no-term all,39.47
+acorn energy,23958,variable-rate all,Electricity,no-term all,39.47
+airdrie energy,24004,variable-rate all,Electricity,no-term all,39.47
+utilitynet,23971,variable-rate all,Electricity,no-term all,39.47
+wetaskiwin power,24308,promotional-rate all,Electricity,no-term all,39.47
+wetaskiwin power,24317,variable-rate all,Electricity,no-term all,39.47
+acorn energy,23950,promotional-rate all,Electricity,1-year all,39.47
+bow valley power,24063,variable-rate all,Electricity,no-term all,39.72
+tassa energy,24242,promotional-rate all,Electricity,no-term all,39.72
+bow valley power,24053,promotional-rate all,Electricity,no-term all,39.72
+tassa energy,24249,variable-rate all,Electricity,no-term all,39.72
+firefly utilities ,24127,variable-rate all,Electricity,1-year all,39.92
+firefly utilities ,24118,promotional-rate all,Electricity,no-term all,39.92
+park power,24190,variable-rate all,Electricity,no-term all,39.97
+alberta utility source,24029,variable-rate all,Electricity,no-term all,39.97
+alberta utility source,24019,promotional-rate all,Electricity,no-term all,39.97
+park power,24182,promotional-rate all,Electricity,no-term all,39.97
+get energy,24139,variable-rate all,Electricity,no-term all,40.44
+gateway energy,24419,promotional-rate all,Electricity,1-year all,40.46
+greenamp utilities,24140,promotional-rate all,Electricity,1-year all,40.47
+greenamp utilities,24150,variable-rate all,Electricity,no-term all,40.47
+alberta cooperative energy (ace),20570,fixed-rate all,Electricity,1-year all,41.13
+sundance power,23507,variable-rate all,Electricity,no-term all,41.42
+azgard energy,24051,variable-rate all,Electricity,1-year all,41.42
+azgard energy,24041,promotional-rate all,Electricity,no-term all,41.42
+ascend energy,24038,variable-rate all,Electricity,no-term all,41.42
+ascend energy,24032,promotional-rate all,Electricity,no-term all,41.42
+utilities by kuby,24177,variable-rate all,Electricity,no-term all,41.47
+utilities by kuby,24172,promotional-rate all,Electricity,no-term all,41.47
+guardian utilities,23254,variable-rate all,Electricity,1-year all,41.5
+abode power,23920,variable-rate all,Electricity,3-year-contract all,41.71
+rocky mountain community energy,24256,fixed-rate all,Electricity,3-year-contract all,42.86
+powerbill,23696,fixed-rate all,Electricity,2-year-contract all,43.1
+orizon utilities,24299,fixed-rate all,Electricity,3-year-contract all,43.12
+rocky mountain community energy,24258,fixed-rate all,Electricity,3-year-contract all,43.12
+jade energy,23279,fixed-rate all,Electricity,3-year-contract all,43.19
+alberta cooperative energy (ace),20571,fixed-rate all,Electricity,1-year all,43.29
+adagio energy,24011,fixed-rate all,Electricity,3-year-contract all,43.35
+foothills energy co-op,24107,fixed-rate all,Electricity,3-year-contract all,43.41
+shared value energy,24197,fixed-rate all,Electricity,3-year-contract all,43.44
+empwr,24101,variable-rate all,Electricity,3-year-contract all,43.46
+prairie power,22607,fixed-rate all,Electricity,1-year all,43.53
+orizon utilities,24300,fixed-rate all,Electricity,3-year-contract all,43.56
+rocky mountain community energy,24259,variable-rate all,Electricity,3-year-contract all,43.56
+orizon utilities,24306,variable-rate all,Electricity,3-year-contract all,43.56
+empwr,24093,fixed-rate all,Electricity,3-year-contract all,43.59
+jade energy,23280,fixed-rate all,Electricity,3-year-contract all,43.63
+empwr,24095,fixed-rate all,Electricity,3-year-contract all,43.76
+alberta cooperative energy (ace),22951,fixed-rate all,Electricity,2-year-contract all,43.77
+adagio energy,24012,fixed-rate all,Electricity,3-year-contract all,43.78
+rocky mountain community energy,24257,fixed-rate all,Electricity,3-year-contract all,43.82
+rocky mountain community energy,24253,fixed-rate all,Electricity,1-year all,43.82
+foothills energy co-op,24108,fixed-rate all,Electricity,3-year-contract all,43.84
+shared value energy,24198,fixed-rate all,Electricity,3-year-contract all,43.87
+adagio energy,24017,variable-rate all,Electricity,3-year-contract all,43.96
+shared value energy,24202,variable-rate all,Electricity,3-year-contract all,43.96
+orizon utilities,24296,fixed-rate all,Electricity,1-year all,43.99
+orizon utilities,24301,fixed-rate all,Electricity,3-year-contract all,43.99
+rocky mountain community energy,24254,fixed-rate all,Electricity,1-year all,43.99
+olympus energy,23700,fixed-rate all,Electricity,3-year-contract all,44.04
+peyakoskan energy,23543,variable-rate all,Electricity,3-year-contract all,44.06
+foothills energy co-op,24114,variable-rate all,Electricity,3-year-contract all,44.06
+peyakoskan energy,23535,fixed-rate all,Electricity,3-year-contract all,44.1
+mountain view power,24217,fixed-rate all,Electricity,3-year-contract all,44.11
+vector energy,24286,fixed-rate all,Electricity,3-year-contract all,44.14
+jade energy,23276,fixed-rate all,Electricity,1-year all,44.14
+wetaskiwin power,24312,fixed-rate all,Electricity,3-year-contract all,44.19
+utilitynet,23965,fixed-rate all,Electricity,3-year-contract all,44.19
+airdrie energy,24001,fixed-rate all,Electricity,3-year-contract all,44.19
+sandstone energy,23978,fixed-rate all,Electricity,3-year-contract all,44.19
+brighter futures energy inc.,23941,fixed-rate all,Electricity,3-year-contract all,44.19
+spot power,23904,fixed-rate all,Electricity,3-year-contract all,44.19
+mountain view power,24224,variable-rate all,Electricity,3-year-contract all,44.2
+solarmax power,24210,variable-rate all,Electricity,3-year-contract all,44.21
+adagio energy,24013,fixed-rate all,Electricity,3-year-contract all,44.22
+atco energy,24454,variable-rate all,Bundled,3-year-contract all,44.23
+atco energy,24451,variable-rate all,Bundled,1-year all,44.23
+atco energy,24455,variable-rate all,Bundled,5-years-or-more all,44.23
+atco energy,24453,variable-rate all,Bundled,2-year-contract all,44.23
+q-tilities ,24633,fixed-rate all,Electricity,3-year-contract all,44.26
+foothills energy co-op,24109,fixed-rate all,Electricity,3-year-contract all,44.27
+peyakoskan energy,23536,fixed-rate all,Electricity,3-year-contract all,44.27
+headwaters utility,23261,fixed-rate all,Electricity,3-year-contract all,44.27
+shared value energy,24199,fixed-rate all,Electricity,3-year-contract all,44.3
+adagio energy,24008,fixed-rate all,Electricity,1-year all,44.3
+foothills energy co-op,24104,fixed-rate all,Electricity,1-year all,44.36
+shared value energy,24194,fixed-rate all,Electricity,1-year all,44.39
+atco energy,24513,combined-rate all,Bundled,1-year all,44.42
+orizon utilities,24297,fixed-rate all,Electricity,1-year all,44.42
+atco energy,24477,combined-rate all,Bundled,2-year-contract all,44.43
+atco energy,24478,combined-rate all,Bundled,3-year-contract all,44.43
+atco energy,24479,combined-rate all,Bundled,5-years-or-more all,44.44
+empwr,24094,fixed-rate all,Electricity,3-year-contract all,44.45
+camrose energy,24072,fixed-rate all,Electricity,3-year-contract all,44.46
+camrose energy,24077,variable-rate all,Electricity,3-year-contract all,44.46
+acorn energy,23955,fixed-rate all,Electricity,3-year-contract all,44.49
+acorn energy,23953,fixed-rate all,Electricity,3-year-contract all,44.49
+utility simple,23702,fixed-rate all,Electricity,3-year-contract all,44.49
+big rock power,23927,fixed-rate all,Electricity,3-year-contract all,44.51
+big rock power,23935,variable-rate all,Electricity,3-year-contract all,44.51
+olympus energy,23699,fixed-rate all,Electricity,2-year-contract all,44.52
+empwr,24090,fixed-rate all,Electricity,1-year all,44.54
+mountain view power,24218,fixed-rate all,Electricity,3-year-contract all,44.54
+vector energy,24287,fixed-rate all,Electricity,3-year-contract all,44.57
+jade energy,23277,fixed-rate all,Electricity,1-year all,44.58
+fluent utilities,23989,fixed-rate all,Electricity,3-year-contract all,44.62
+spot power,23905,fixed-rate all,Electricity,3-year-contract all,44.62
+wetaskiwin power,24313,fixed-rate all,Electricity,3-year-contract all,44.62
+brighter futures energy inc.,23942,fixed-rate all,Electricity,3-year-contract all,44.62
+utilitynet,23966,fixed-rate all,Electricity,3-year-contract all,44.62
+airdrie energy,24002,fixed-rate all,Electricity,3-year-contract all,44.62
+sandstone energy,23979,fixed-rate all,Electricity,3-year-contract all,44.62
+fluent utilities,23986,fixed-rate all,Electricity,1-year all,44.62
+firefly utilities ,24122,fixed-rate all,Electricity,3-year-contract all,44.64
+echo energy,24088,variable-rate all,Electricity,3-year-contract all,44.66
+vector energy,24293,variable-rate all,Electricity,3-year-contract all,44.66
+headwaters utility,23270,variable-rate all,Electricity,3-year-contract all,44.66
+alberta utility source,24023,fixed-rate all,Electricity,3-year-contract all,44.69
+headwaters utility,23262,fixed-rate all,Electricity,3-year-contract all,44.7
+q-tilities ,24634,fixed-rate all,Electricity,3-year-contract all,44.7
+ridge utilities,24331,variable-rate all,Electricity,3-year-contract all,44.7
+q-tilities ,24640,variable-rate all,Electricity,3-year-contract all,44.7
+spot power,23911,variable-rate all,Electricity,3-year-contract all,44.71
+great canadian utilities,24280,variable-rate all,Electricity,3-year-contract all,44.71
+sandstone energy,23982,variable-rate all,Electricity,3-year-contract all,44.71
+wetaskiwin power,24318,variable-rate all,Electricity,3-year-contract all,44.71
+neon power,24338,variable-rate all,Electricity,3-year-contract all,44.71
+acorn energy,23959,variable-rate all,Electricity,3-year-contract all,44.71
+fluent utilities,23995,variable-rate all,Electricity,3-year-contract all,44.71
+airdrie energy,24005,variable-rate all,Electricity,3-year-contract all,44.71
+utilitynet,23972,variable-rate all,Electricity,3-year-contract all,44.71
+jade energy,23286,variable-rate all,Electricity,3-year-contract all,44.71
+brighter futures energy inc.,23948,variable-rate all,Electricity,3-year-contract all,44.71
+camrose energy,24073,fixed-rate all,Electricity,3-year-contract all,44.72
+adagio energy,24009,fixed-rate all,Electricity,1-year all,44.73
+foothills energy co-op,24105,fixed-rate all,Electricity,1-year all,44.79
+solarmax power,24208,fixed-rate all,Electricity,3-year-contract all,44.81
+shared value energy,24195,fixed-rate all,Electricity,1-year all,44.82
+neon power,24335,fixed-rate all,Electricity,3-year-contract all,44.84
+rocky mountain community energy,24255,fixed-rate all,Electricity,1-year all,44.85
+orizon utilities,24298,fixed-rate all,Electricity,1-year all,44.85
+big rock power,23928,fixed-rate all,Electricity,3-year-contract all,44.85
+tassa energy,24245,fixed-rate all,Electricity,3-year-contract all,44.87
+guardian utilities,24159,promotional-rate all,Electricity,no-term all,44.87
+guardian utilities,24171,variable-rate all,Electricity,1-year all,44.87
+ridge utilities,24324,fixed-rate all,Electricity,3-year-contract all,44.91
+fluent utilities,23988,fixed-rate all,Electricity,3-year-contract all,44.92
+great canadian utilities,24273,fixed-rate all,Electricity,3-year-contract all,44.92
+burst energy,16834,fixed-rate all,Electricity,1-year all,44.94
+bow valley power,24057,fixed-rate all,Electricity,3-year-contract all,44.96
+bow valley power,24058,fixed-rate all,Electricity,3-year-contract all,44.96
+bow valley power,24064,variable-rate all,Electricity,3-year-contract all,44.96
+tassa energy,24250,variable-rate all,Electricity,3-year-contract all,44.96
+mountain view power,24219,fixed-rate all,Electricity,3-year-contract all,44.97
+empwr,24091,fixed-rate all,Electricity,1-year all,44.97
+utility simple,23703,fixed-rate all,Electricity,2-year-contract all,44.97
+echo energy,24081,fixed-rate all,Electricity,3-year-contract all,45.0
+vector energy,24288,fixed-rate all,Electricity,3-year-contract all,45.0
+peyakoskan energy,23532,fixed-rate all,Electricity,1-year all,45.01
+fluent utilities,23990,fixed-rate all,Electricity,3-year-contract all,45.05
+spot power,23902,fixed-rate all,Electricity,3-year-contract all,45.05
+sandstone energy,23980,fixed-rate all,Electricity,3-year-contract all,45.05
+utilitynet,23967,fixed-rate all,Electricity,3-year-contract all,45.05
+wetaskiwin power,24314,fixed-rate all,Electricity,3-year-contract all,45.05
+airdrie energy,24003,fixed-rate all,Electricity,3-year-contract all,45.05
+brighter futures energy inc.,23943,fixed-rate all,Electricity,3-year-contract all,45.05
+mountain view power,24214,fixed-rate all,Electricity,1-year all,45.06
+firefly utilities ,24123,fixed-rate all,Electricity,3-year-contract all,45.07
+vector energy,24283,fixed-rate all,Electricity,1-year all,45.09
+ridge utilities,24325,fixed-rate all,Electricity,3-year-contract all,45.09
+great canadian utilities,24274,fixed-rate all,Electricity,3-year-contract all,45.1
+alberta utility source,24024,fixed-rate all,Electricity,3-year-contract all,45.12
+q-tilities ,24630,fixed-rate all,Electricity,1-year all,45.13
+q-tilities ,24635,fixed-rate all,Electricity,3-year-contract all,45.13
+headwaters utility,23258,fixed-rate all,Electricity,1-year all,45.13
+headwaters utility,23263,fixed-rate all,Electricity,3-year-contract all,45.13
+peyakoskan energy,23537,fixed-rate all,Electricity,3-year-contract all,45.14
+airdrie energy,23998,fixed-rate all,Electricity,1-year all,45.14
+brighter futures energy inc.,23938,fixed-rate all,Electricity,1-year all,45.14
+spot power,23900,fixed-rate all,Electricity,1-year all,45.14
+wetaskiwin power,24309,fixed-rate all,Electricity,1-year all,45.14
+utilitynet,23962,fixed-rate all,Electricity,1-year all,45.14
+fluent utilities,23985,fixed-rate all,Electricity,1-year all,45.14
+sandstone energy,23975,fixed-rate all,Electricity,1-year all,45.14
+camrose energy,24067,fixed-rate all,Electricity,1-year all,45.15
+get energy,24133,fixed-rate all,Electricity,3-year-contract all,45.16
+firefly utilities ,24128,variable-rate all,Electricity,3-year-contract all,45.16
+abode power,23915,fixed-rate all,Electricity,3-year-contract all,45.17
+adagio energy,24010,fixed-rate all,Electricity,1-year all,45.17
+gateway energy,24423,fixed-rate all,Electricity,3-year-contract all,45.18
+utilities by kuby,24175,fixed-rate all,Electricity,3-year-contract all,45.19
+alberta utility source,24030,variable-rate all,Electricity,3-year-contract all,45.21
+park power,24191,variable-rate all,Electricity,3-year-contract all,45.21
+foothills energy co-op,24106,fixed-rate all,Electricity,1-year all,45.22
+shared value energy,24196,fixed-rate all,Electricity,1-year all,45.25
+tassa energy,24246,fixed-rate all,Electricity,3-year-contract all,45.3
+big rock power,23923,fixed-rate all,Electricity,1-year all,45.37
+wholesale power,24241,variable-rate all,Electricity,no-term all,45.37
+wholesale power,24229,promotional-rate all,Electricity,no-term all,45.37
+peyakoskan energy,23533,fixed-rate all,Electricity,1-year all,45.44
+acorn energy,23951,fixed-rate all,Electricity,1-year all,45.44
+park power,24185,fixed-rate all,Electricity,3-year-contract all,45.47
+mountain view power,24215,fixed-rate all,Electricity,1-year all,45.49
+alberta cooperative energy (ace),22952,fixed-rate all,Electricity,2-year-contract all,45.5
+firefly utilities ,24124,fixed-rate all,Electricity,3-year-contract all,45.5
+vector energy,24284,fixed-rate all,Electricity,1-year all,45.52
+headwaters utility,23259,fixed-rate all,Electricity,1-year all,45.56
+q-tilities ,24631,fixed-rate all,Electricity,1-year all,45.56
+utilitynet,23963,fixed-rate all,Electricity,1-year all,45.57
+great canadian utilities,24270,fixed-rate all,Electricity,1-year all,45.57
+brighter futures energy inc.,23939,fixed-rate all,Electricity,1-year all,45.57
+airdrie energy,23999,fixed-rate all,Electricity,1-year all,45.57
+sandstone energy,23976,fixed-rate all,Electricity,1-year all,45.57
+wetaskiwin power,24310,fixed-rate all,Electricity,1-year all,45.57
+spot power,23901,fixed-rate all,Electricity,1-year all,45.57
+firefly utilities ,24119,fixed-rate all,Electricity,1-year all,45.59
+abode power,23916,fixed-rate all,Electricity,3-year-contract all,45.6
+gateway energy,24424,fixed-rate all,Electricity,3-year-contract all,45.61
+alberta utility source,24020,fixed-rate all,Electricity,1-year all,45.64
+acorn energy,23954,fixed-rate all,Electricity,3-year-contract all,45.66
+empwr,24092,fixed-rate all,Electricity,1-year all,45.66
+get energy,24136,variable-rate all,Electricity,3-year-contract all,45.68
+gateway energy,24429,variable-rate all,Electricity,3-year-contract all,45.7
+greenamp utilities,24151,variable-rate all,Electricity,3-year-contract all,45.71
+solarmax power,24206,fixed-rate all,Electricity,1-year all,45.76
+echo energy,24082,fixed-rate all,Electricity,3-year-contract all,45.78
+camrose energy,24071,fixed-rate all,Electricity,1-year all,45.8
+big rock power,23925,fixed-rate all,Electricity,1-year all,45.8
+tassa energy,24243,fixed-rate all,Electricity,1-year all,45.82
+bow valley power,24059,fixed-rate all,Electricity,3-year-contract all,45.82
+peyakoskan energy,23534,fixed-rate all,Electricity,1-year all,45.87
+great canadian utilities,24275,fixed-rate all,Electricity,3-year-contract all,45.92
+great canadian utilities,24271,fixed-rate all,Electricity,1-year all,45.92
+mountain view power,24216,fixed-rate all,Electricity,1-year all,45.93
+vector energy,24285,fixed-rate all,Electricity,1-year all,45.95
+ridge utilities,24326,fixed-rate all,Electricity,3-year-contract all,45.95
+q-tilities ,24632,fixed-rate all,Electricity,1-year all,45.99
+fluent utilities,23987,fixed-rate all,Electricity,1-year all,46.0
+brighter futures energy inc.,23940,fixed-rate all,Electricity,1-year all,46.0
+airdrie energy,24000,fixed-rate all,Electricity,1-year all,46.0
+spot power,23903,fixed-rate all,Electricity,1-year all,46.0
+headwaters utility,23260,fixed-rate all,Electricity,1-year all,46.0
+utilitynet,23964,fixed-rate all,Electricity,1-year all,46.0
+wetaskiwin power,24311,fixed-rate all,Electricity,1-year all,46.0
+sandstone energy,23977,fixed-rate all,Electricity,1-year all,46.0
+firefly utilities ,24120,fixed-rate all,Electricity,1-year all,46.02
+gateway energy,24425,fixed-rate all,Electricity,3-year-contract all,46.04
+azgard energy,24044,fixed-rate all,Electricity,3-year-contract all,46.05
+park power,24183,fixed-rate all,Electricity,1-year all,46.07
+alberta utility source,24021,fixed-rate all,Electricity,1-year all,46.07
+acorn energy,23952,fixed-rate all,Electricity,1-year all,46.09
+gateway energy,24420,fixed-rate all,Electricity,1-year all,46.13
+sundance power,23499,fixed-rate all,Electricity,3-year-contract all,46.14
+utilities by kuby,24174,fixed-rate all,Electricity,1-year all,46.14
+azgard energy,24045,fixed-rate all,Electricity,3-year-contract all,46.22
+tassa energy,24244,fixed-rate all,Electricity,1-year all,46.25
+park power,24186,fixed-rate all,Electricity,3-year-contract all,46.33
+ridge utilities,24321,fixed-rate all,Electricity,1-year all,46.34
+neon power,24334,fixed-rate all,Electricity,1-year all,46.39
+greenamp utilities,24144,fixed-rate all,Electricity,3-year-contract all,46.4
+great canadian utilities,24272,fixed-rate all,Electricity,1-year all,46.44
+firefly utilities ,24121,fixed-rate all,Electricity,1-year all,46.45
+alberta utility source,24022,fixed-rate all,Electricity,1-year all,46.5
+alberta utility source,24025,fixed-rate all,Electricity,3-year-contract all,46.5
+sponsor energy,19311,fixed-rate all,Electricity,1-year all,46.56
+gateway energy,24421,fixed-rate all,Electricity,1-year all,46.56
+sundance power,23500,fixed-rate all,Electricity,3-year-contract all,46.57
+echo energy,24080,fixed-rate all,Electricity,1-year all,46.65
+azgard energy,24052,variable-rate all,Electricity,3-year-contract all,46.66
+ascend energy,24039,variable-rate all,Electricity,3-year-contract all,46.66
+sundance power,23510,variable-rate all,Electricity,3-year-contract all,46.66
+utilities by kuby,24178,variable-rate all,Electricity,3-year-contract all,46.71
+ridge utilities,24322,fixed-rate all,Electricity,1-year all,46.77
+greenamp utilities,24145,fixed-rate all,Electricity,3-year-contract all,46.83
+encor by epcor,24350,fixed-rate all,Electricity,2-year-contract all,46.91
+68energy,10691,fixed-rate all,Electricity,1-year all,46.96
+gateway energy,24422,fixed-rate all,Electricity,1-year all,46.99
+sundance power,23501,fixed-rate all,Electricity,3-year-contract all,47.0
+sundance power,23497,fixed-rate all,Electricity,1-year all,47.09
+abode power,23913,fixed-rate all,Electricity,1-year all,47.11
+bow valley power,24055,fixed-rate all,Electricity,1-year all,47.12
+bow valley power,24054,fixed-rate all,Electricity,1-year all,47.12
+azgard energy,24042,fixed-rate all,Electricity,1-year all,47.13
+ridge utilities,24323,fixed-rate all,Electricity,1-year all,47.2
+greenamp utilities,24141,fixed-rate all,Electricity,1-year all,47.26
+get energy,24134,fixed-rate all,Electricity,3-year-contract all,47.32
+get energy,24131,fixed-rate all,Electricity,1-year all,47.32
+park power,24184,fixed-rate all,Electricity,1-year all,47.37
+atco energy,16733,fixed-rate all,Electricity,2-year-contract all,47.39
+sundance power,23498,fixed-rate all,Electricity,1-year all,47.52
+abode power,23914,fixed-rate all,Electricity,1-year all,47.54
+azgard energy,24043,fixed-rate all,Electricity,1-year all,47.56
+greenamp utilities,24142,fixed-rate all,Electricity,1-year all,47.7
+atco energy,16734,fixed-rate all,Electricity,3-year-contract all,47.82
+powerbill,24068,fixed-rate all,Electricity,1-year all,47.86
+powerbill,22737,fixed-rate all,Electricity,3-year-contract all,47.86
+guardian utilities,24161,variable-rate all,Electricity,1-year all,47.87
+guardian utilities,24156,promotional-rate all,Electricity,no-term all,47.87
+guardian utilities,24158,promotional-rate all,Electricity,no-term all,47.87
+sundance power,23496,fixed-rate all,Electricity,1-year all,47.95
+bow valley power,24056,fixed-rate all,Electricity,1-year all,47.98
+sturgeon river utilities,23835,fixed-rate all,Electricity,1-year all,48.03
+sponsor energy,20407,fixed-rate all,Electricity,3-year-contract all,48.33
+wholesale power,24230,promotional-rate all,Electricity,no-term all,48.37
+wholesale power,24239,variable-rate all,Electricity,no-term all,48.37
+olympus energy,21846,fixed-rate all,Electricity,1-year all,48.37
+peace power,19842,fixed-rate all,Electricity,3-year-contract all,48.53
+guardian utilities,24167,fixed-rate all,Electricity,3-year-contract all,48.59
+utility simple,23704,fixed-rate all,Electricity,1-year all,48.82
+encor by epcor,24349,fixed-rate all,Electricity,2-year-contract all,48.86
+atco energy,16732,fixed-rate all,Electricity,1-year all,48.86
+easymax by enmax energy corporation,22664,fixed-rate all,Electricity,1-year all,48.87
+peace power,23697,fixed-rate all,Electricity,2-year-contract all,49.01
+wholesale power,24237,fixed-rate all,Electricity,3-year-contract all,49.09
+8760,21547,fixed-rate all,Electricity,1-year all,49.2
+alberta cooperative energy (ace),20569,fixed-rate all,Electricity,3-year-contract all,49.34
+ascend energy,24034,fixed-rate all,Electricity,3-year-contract all,49.47
+guardian utilities,24162,fixed-rate all,Electricity,1-year all,49.54
+burst energy,16390,fixed-rate all,Electricity,3-year-contract all,49.77
+wholesale power,24232,fixed-rate all,Electricity,1-year all,50.04
+68energy,17222,fixed-rate all,Electricity,3-year-contract all,50.36
+ascend energy,24033,fixed-rate all,Electricity,1-year all,50.42
+direct energy,24609,fixed-rate all,Electricity,1-year all,50.42
+wholesale power,24227,variable-rate all,Electricity,3-year-contract all,50.61
+guardian utilities,24170,variable-rate all,Electricity,1-year all,50.87
+easymax by enmax energy corporation,24441,fixed-rate all,Electricity,3-year-contract all,51.03
+strathcona power,24548,fixed-rate all,Electricity,1-year all,51.04
+alberta cooperative energy (ace),19490,fixed-rate all,Electricity,3-year-contract all,51.07
+greenamp utilities,24146,fixed-rate all,Electricity,3-year-contract all,51.15
+guardian utilities,23247,variable-rate all,Electricity,3-year-contract all,51.32
+wholesale power,24240,variable-rate all,Electricity,no-term all,51.37
+wholesale power,24231,promotional-rate all,Electricity,no-term all,51.37
+guardian utilities,24165,fixed-rate all,Electricity,3-year-contract all,51.59
+solarmax power,24207,fixed-rate all,Electricity,3-year-contract all,51.64
+rewards power,24411,fixed-rate all,Electricity,1-year all,51.8
+get energy,24132,fixed-rate all,Electricity,3-year-contract all,51.9
+link energy,22977,fixed-rate all,Electricity,1-year all,52.01
+greenamp utilities,24143,fixed-rate all,Electricity,1-year all,52.02
+wholesale power,24236,fixed-rate all,Electricity,3-year-contract all,52.09
+powerbill,24600,fixed-rate all,Bundled,2-year-contract all,52.3
+encor by epcor,24348,fixed-rate all,Electricity,2-year-contract all,52.32
+solarmax power,24205,fixed-rate all,Electricity,1-year all,52.51
+guardian utilities,24163,fixed-rate all,Electricity,1-year all,52.54
+prairie power,24602,fixed-rate all,Bundled,1-year all,52.72
+peace power,19841,fixed-rate all,Electricity,1-year all,52.86
+choice energy,23788,fixed-rate all,Electricity,1-year all,52.92
+sturgeon river utilities,23836,fixed-rate all,Electricity,3-year-contract all,52.96
+wholesale power,24233,fixed-rate all,Electricity,1-year all,53.04
+8760,22888,fixed-rate all,Electricity,3-year-contract all,53.09
+guardian utilities,24157,variable-rate all,Electricity,3-year-contract all,53.11
+atco energy,16735,fixed-rate all,Electricity,5-years-or-more all,53.18
+sponsor energy,20195,fixed-rate all,Electricity,5-years-or-more all,53.48
+xoom energy canada,24657,fixed-rate all,Electricity,2-year-contract all,53.5
+wholesale power,24226,variable-rate all,Electricity,3-year-contract all,53.61
+big energy,21695,fixed-rate all,Electricity,1-year all,53.69
+alberta cooperative energy (ace),20568,fixed-rate all,Electricity,5-years-or-more all,54.1
+direct energy,24606,fixed-rate all,Electricity,1-year all,54.31
+activate energy,22918,fixed-rate all,Electricity,1-year all,54.38
+guardian utilities,24166,fixed-rate all,Electricity,3-year-contract all,54.59
+xoom energy canada,24659,fixed-rate all,Electricity,3-year-contract all,54.8
+wholesale power,24235,fixed-rate all,Electricity,3-year-contract all,55.09
+direct energy,24612,fixed-rate all,Electricity,1-year all,55.17
+easymax by enmax energy corporation,24439,fixed-rate all,Electricity,5-years-or-more all,55.35
+strathcona power,24549,fixed-rate all,Electricity,3-year-contract all,55.37
+guardian utilities,24164,fixed-rate all,Electricity,1-year all,55.54
+encor by epcor,24347,fixed-rate all,Electricity,2-year-contract all,55.56
+wholesale power,24234,fixed-rate all,Electricity,1-year all,56.04
+guardian utilities,24160,variable-rate all,Electricity,3-year-contract all,56.11
+alberta cooperative energy (ace),11645,fixed-rate all,Electricity,5-years-or-more all,56.26
+8760,20905,fixed-rate all,Electricity,5-years-or-more all,56.55
+wholesale power,24225,variable-rate all,Electricity,3-year-contract all,56.61
+encor by epcor,24345,fixed-rate all,Bundled,2-year-contract all,56.74
+activate energy,22920,fixed-rate all,Electricity,3-year-contract all,56.81
+choice energy,23787,fixed-rate all,Electricity,3-year-contract all,57.33
+atco energy,24481,combined-rate all,Bundled,2-year-contract all,57.42
+atco energy,16824,fixed-rate all,Bundled,2-year-contract all,57.44
+rewards power,24412,fixed-rate all,Electricity,3-year-contract all,57.45
+sturgeon river utilities,23837,fixed-rate all,Electricity,5-years-or-more all,57.5
+atco energy,22982,fixed-rate all,Bundled,2-year-contract all,57.61
+atco energy,22983,fixed-rate all,Bundled,3-year-contract all,57.62
+atco energy,22984,fixed-rate all,Bundled,5-years-or-more all,57.63
+atco energy,24482,combined-rate all,Bundled,3-year-contract all,57.85
+atco energy,22985,fixed-rate all,Bundled,3-year-contract all,58.04
+atco energy,22762,fixed-rate all,Bundled,3-year-contract all,58.05
+atco energy,22978,fixed-rate all,Bundled,3-year-contract all,58.05
+atco energy,22986,fixed-rate all,Bundled,5-years-or-more all,58.06
+direct energy,24608,fixed-rate all,Bundled,1-year all,58.16
+atco energy,24480,combined-rate all,Bundled,1-year all,58.89
+easymax by enmax energy corporation,22684,combined-rate all,Bundled,1-year all,58.91
+epcor energy alberta gp inc.,23485,regulated-rate all,Electricity,no-term all,59.05
+atco energy,16823,fixed-rate all,Bundled,1-year all,59.08
+atco energy,22979,fixed-rate all,Bundled,2-year-contract all,59.08
+atco energy,22980,fixed-rate all,Bundled,3-year-contract all,59.09
+atco energy,22981,fixed-rate all,Bundled,5-years-or-more all,59.1
+easymax by enmax energy corporation,23791,fixed-rate all,Bundled,1-year all,59.11
+sponsor energy,22899,fixed-rate all,Bundled,1-year all,59.26
+sponsor energy,22900,fixed-rate all,Bundled,3-year-contract all,59.29
+sponsor energy,22901,fixed-rate all,Bundled,5-years-or-more all,59.3
+link energy,22976,fixed-rate all,Electricity,3-year-contract all,59.34
+strathcona power,24550,fixed-rate all,Electricity,5-years-or-more all,59.69
+direct energy,24615,fixed-rate all,Electricity,5-years-or-more all,59.93
+altaconnect,21708,fixed-rate all,Electricity,1-year all,60.05
+astro energy,19323,fixed-rate all,Electricity,5-years-or-more all,60.79
+rewards power,24413,fixed-rate all,Electricity,5-years-or-more all,60.89
+sponsor energy,20408,fixed-rate all,Bundled,3-year-contract all,61.03
+sponsor energy,20409,fixed-rate all,Bundled,3-year-contract all,61.06
+easymax by enmax energy corporation,24449,combined-rate all,Bundled,3-year-contract all,61.07
+sponsor energy,21703,fixed-rate all,Bundled,5-years-or-more all,61.07
+easymax by enmax energy corporation,24448,fixed-rate all,Bundled,3-year-contract all,61.27
+choice energy,19415,fixed-rate all,Electricity,5-years-or-more all,61.79
+activate energy,22917,fixed-rate all,Electricity,5-years-or-more all,62.0
+direct energy,24605,fixed-rate all,Bundled,1-year all,62.05
+link energy,20132,fixed-rate all,Electricity,5-years-or-more all,62.62
+direct energy,24611,fixed-rate all,Bundled,1-year all,62.91
+atco energy,24483,combined-rate all,Bundled,5-years-or-more all,63.21
+atco energy,22987,fixed-rate all,Bundled,5-years-or-more all,63.4
+atco energy,22989,fixed-rate all,Bundled,5-years-or-more all,63.41
+atco energy,22988,fixed-rate all,Bundled,5-years-or-more all,63.41
+atco energy,16826,fixed-rate all,Bundled,5-years-or-more all,63.42
+big energy,19327,fixed-rate all,Electricity,5-years-or-more all,63.69
+energy for less,23897,fixed-rate all,Electricity,1-year all,63.69
+bright fire energy,16855,fixed-rate all,Electricity,5-years-or-more all,63.81
+regional energy,22892,fixed-rate all,Electricity,3-year-contract all,65.36
+easymax by enmax energy corporation,24443,combined-rate all,Bundled,5-years-or-more all,65.4
+easymax by enmax energy corporation,24445,fixed-rate all,Bundled,5-years-or-more all,65.62
+energy for less,23896,fixed-rate all,Electricity,3-year-contract all,65.63
+sponsor energy,22896,fixed-rate all,Bundled,5-years-or-more all,66.18
+sponsor energy,22897,fixed-rate all,Bundled,5-years-or-more all,66.2
+sponsor energy,22898,fixed-rate all,Bundled,5-years-or-more all,66.22
+direct energy,24614,fixed-rate all,Bundled,5-years-or-more all,67.69
+regional energy,19315,fixed-rate all,Electricity,5-years-or-more all,69.68
+energy for less,19318,fixed-rate all,Electricity,5-years-or-more all,69.7
+altaconnect,20509,fixed-rate all,Bundled,1-year all,90.26
+regional energy,22895,fixed-rate all,Bundled,3-year-contract all,91.18
+regional energy,19957,fixed-rate all,Bundled,5-years-or-more all,95.94
+abode power,17036,variable-rate all,Electricity,3-year-contract all,134.7
+acorn energy,23009,variable-rate all,Electricity,3-year-contract all,137.7
