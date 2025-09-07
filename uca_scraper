@@ -1,0 +1,142 @@
+from playwright.sync_api import sync_playwright
+import csv
+import datetime
+
+POSTAL = "T8N1X1"
+BASE_URL = f"https://ucahelps.alberta.ca/cost-comparison-tool/cost-comparison-tool-results/?usageType=0&locationCityTown=&locationPostalCode={POSTAL}&locationMeterNumber=&filterPlanType=-1&filterTermLength=-1&locationCityTownPostal=&locationSiteID=&naturalGasMonth=&electricityUsage=&electricityBillingDemand=&electricityFarmUsage=&naturalGasUsage="
+
+HEADERS = [
+    "Date", "UtilityType", "PlanID", "Provider", "PlanType", "Contract",
+    "Features", "EstimatedBill", "OtherFees", "AdminFee", "ElectricPrice_cents",
+    "GasPrice_cents", "GreenEnergy"
+]
+
+def fetch_data_for_tab(page, tab_id, table_id, dropdown_name, utility_type):
+    print(f"▶ Fetching {utility_type} from tab #{tab_id}")
+    
+    # Click the tab link to show results
+    page.click(f"a#{tab_id}")
+    
+    # Wait for the table rows to appear
+    page.wait_for_selector(f"table#{table_id} tbody tr", timeout=30000)
+    
+    # Make dropdown visible and select '500' (All) if possible
+    dropdown_selector = f"select[name='{dropdown_name}']"
+    try:
+        page.wait_for_selector(dropdown_selector, timeout=5000)
+        # Force dropdown visible (in case hidden)
+        page.evaluate(f'''
+            () => {{
+                const select = document.querySelector("select[name='{dropdown_name}']");
+                if (select) {{
+                    select.style.display = "block";
+                    select.style.visibility = "visible";
+                }}
+            }}
+        ''')
+        page.select_option(dropdown_selector, '500')  # Select "All"
+        # Wait for table refresh after changing dropdown
+        page.wait_for_timeout(3000)
+    except Exception as e:
+        print(f"⚠ Warning: Could not set dropdown to 'All' for {dropdown_name}: {e}")
+
+    # Wait again for table rows after dropdown change
+    page.wait_for_selector(f"table#{table_id} tbody tr", timeout=30000)
+    
+    rows = page.query_selector_all(f"table#{table_id} tbody tr")
+    print(f"✓ Found {len(rows)} rows for {utility_type}")
+
+    data = []
+    for row in rows:
+        # Extract data attributes from row, fallback to empty string if None
+        plan_id = row.get_attribute('data-plan-id') or ""
+        provider = row.get_attribute('data-caption') or ""
+        plan_type = row.get_attribute('data-plantype') or ""
+        contract = row.get_attribute('data-contract') or ""
+        features = row.get_attribute('data-features') or ""
+        estimated_bill = row.get_attribute('data-bill') or ""
+        other_fees = row.get_attribute('data-otherfees') or ""
+        admin_fee = row.get_attribute('data-adminfee') or ""
+        electric_price = row.get_attribute('data-electricalprice') or ""
+        gas_price = row.get_attribute('data-gasprice') or ""
+        green_energy = row.get_attribute('data-greenenergy') or ""
+
+        data.append({
+            "Date": datetime.date.today().isoformat(),
+            "UtilityType": utility_type,
+            "PlanID": plan_id,
+            "Provider": provider,
+            "PlanType": plan_type,
+            "Contract": contract,
+            "Features": features,
+            "EstimatedBill": estimated_bill,
+            "OtherFees": other_fees,
+            "AdminFee": admin_fee,
+            "ElectricPrice_cents": electric_price,
+            "GasPrice_cents": gas_price,
+            "GreenEnergy": green_energy,
+        })
+    return data
+
+
+def main():
+    with sync_playwright() as p:
+        browser = p.chromium.launch(headless=True)
+        page = browser.new_page()
+        page.goto(BASE_URL)
+
+        all_data = []
+
+        # Fetch electricity data
+        elec = fetch_data_for_tab(
+            page,
+            tab_id="linkele",
+            table_id="tblElectricityResults",
+            dropdown_name="tblElectricityResults_length",
+            utility_type="Electricity"
+        )
+        all_data.extend(elec)
+
+        # Fetch natural gas data
+        natgas = fetch_data_for_tab(
+            page,
+            tab_id="linknat",
+            table_id="tblGasResults",
+            dropdown_name="tblGasResults_length",
+            utility_type="NaturalGas"
+        )
+        all_data.extend(natgas)
+
+        # Fetch bundled data
+        bundled = fetch_data_for_tab(
+            page,
+            tab_id="linkbun",
+            table_id="tblBundledResults",
+            dropdown_name="tblBundledResults_length",
+            utility_type="Bundled"
+        )
+        all_data.extend(bundled)
+
+        browser.close()
+
+    # Remove duplicates by PlanID + UtilityType
+    seen = set()
+    unique_data = []
+    for row in all_data:
+        key = (row["PlanID"], row["UtilityType"])
+        if key not in seen:
+            unique_data.append(row)
+            seen.add(key)
+
+    # Save to CSV
+    csv_filename = f"uca_rates_{datetime.date.today().isoformat()}.csv"
+    with open(csv_filename, "w", newline="", encoding="utf-8") as csvfile:
+        writer = csv.DictWriter(csvfile, fieldnames=HEADERS)
+        writer.writeheader()
+        for row in unique_data:
+            writer.writerow(row)
+
+    print(f"✓ Saved {len(unique_data)} unique rows to {csv_filename}")
+
+if __name__ == "__main__":
+    main()
